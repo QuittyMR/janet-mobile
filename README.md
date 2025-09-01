@@ -30,4 +30,4 @@ The app is set up to trust self-signed SSL certificates, so it works with local 
 
 *   A foreground service (`RecordingService`) handles recording so the OS doesn't kill it.
 *   `LiveData` syncs state between the service, main activity, and widget.
-*   `OkHttp` is used for uploads.
+*   *WARNING*: This project is 100% vibe-coded and is by no means a testament to quality Kotlin code. I know just enough Kotlin to be dangerous.
