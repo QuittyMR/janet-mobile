@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_launcher_background" />
+    <item>
+        <vector
+            android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="215.434"
+            android:viewportHeight="215.434">
+          <path
+              android:fillColor="#FFFFFF"
+              android:pathData="M112.252,45.338h24.582v84.902c0,12.161-3.729,21.85-11.193,29.061c-7.462,7.209-17.051,10.813-28.762,10.813c-13.01,0-23.316-3.213-30.919-9.632c-7.604-6.421-11.265-15.739-10.982-27.962l0.17-0.508h23.992c0,6.53,1.604,11.361,4.813,14.485c3.211,3.126,7.521,4.688,12.927,4.688c4.504,0,8.192-1.87,11.066-5.615c2.871-3.746,4.308-8.856,4.308-15.333L112.252,45.338L112.252,45.338z"/>
+        </vector>
+    </item>
+</layer-list>
